@@ -1,5 +1,11 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{2FA4AC25-7F55-133A-BDC0-D021AE1B7C0E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdventureGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/State.cs" Line="9" Column="5" />
+      <File FileName="Assets/Scripts/AdventureGame.cs" Line="22" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
